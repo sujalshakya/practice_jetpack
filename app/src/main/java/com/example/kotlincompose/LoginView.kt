@@ -42,7 +42,6 @@ class LoginView : ComponentActivity() {
         }
     }
 }
-
 @Composable
 fun LoginForm(){
     Column (
